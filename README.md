@@ -18,3 +18,7 @@
 	-- Máximo de Ingresso por Storage Account: 25GBPS.
 	-- Máximo de regras de acesso virtual: 200.
 	-- Máximo de números de IP: 200
+  - Na criação de Máquinas Virtuais, o que mais pesa para o preço é:
+  	-- O Tamanho do servidor (Normal).
+	-- O Local onde ele está é um peso grande também.
+	

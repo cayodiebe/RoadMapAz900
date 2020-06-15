@@ -21,3 +21,14 @@
   - Na criação de Máquinas Virtuais, o que mais pesa para o preço é:
   	-- O Tamanho do servidor (Normal).
 	-- O Local onde ele está é um peso grande também.
+  - Configurações de Blob Storaged:
+  	-- Transmissão de vídeo e aúdio.
+	-- Abrindo imagens ou documentos diretamente pelo navegador.
+	-- Inscrito em logs.
+	-- Arquivos distribuídos em ações remotas.
+  - Azure SQL Database é possível visualizar através do Power BI.
+  - Elastic Pools são responsáveis por gerenciar muitas bases de dados.
+  - OS DISK suporta somente 2TB
+  - Data Disk suporta +32TB
+  - Temporary Disk é somente em um escopo temporário.
+  

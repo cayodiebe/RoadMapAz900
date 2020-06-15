@@ -31,4 +31,3 @@
   - OS DISK suporta somente 2TB
   - Data Disk suporta +32TB
   - Temporary Disk é somente em um escopo temporário.
-  

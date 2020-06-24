@@ -1,4 +1,4 @@
-# Primeiras Anotações #
+# Primeiras Anotações - Certificação AZ-900 #
     Oriundos WhizLabs 
   
   - Azure DataLake é mais worth it perante a utilização de muitos dados referentes a Power Bi e consultas.

@@ -40,5 +40,5 @@
 Fault Tolerance
 	-> Nunca Falha, se manter online TODOS os tempos.
 
-
+https://www.youtube.com/watch?v=ijyA2wtEH0s
 31:00

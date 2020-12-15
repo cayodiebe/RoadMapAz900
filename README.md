@@ -33,3 +33,12 @@
   - Temporary Disk é somente em um escopo temporário.
   - O que é PaaS?
   - O que é SaaS?
+  
+  High Availability
+	-> Com falhas, 99.9%
+	
+Fault Tolerance
+	-> Nunca Falha, se manter online TODOS os tempos.
+
+
+31:00

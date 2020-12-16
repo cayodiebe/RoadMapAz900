@@ -32,13 +32,62 @@
   - Data Disk suporta +32TB
   - Temporary Disk é somente em um escopo temporário.
   - O que é PaaS?
+  - O que é IaaS?
+  	-> Categoria Básica, NÓS gerenciamos a camada de storage, nós gerenciamos o sistema operacional.  (Alugar um carro, mas, a responsabilidade de gasolina, estacionamento, atividades é sua).
   - O que é SaaS?
+  - Nuvem é facil para elasticidade(Black Friday).
   
-  High Availability
+High Availability
 	-> Com falhas, 99.9%
 	
 Fault Tolerance
-	-> Nunca Falha, se manter online TODOS os tempos.
+	-> Nunca Falha, se manter online TODOS os tempos, com a tratavia mais planejada.
+
+Escalabilidaed
+	-> Escala, porém, não é elastica. (Aumentar o poder computacional de uma máquina), não é em horizontal, elasticy é em vertical).
+
+Elasticy
+	-> Black friday, por exemplo, Scale Set (por exemplo 50), ativa outra máquina virtual.
+
+Global Reach 
+	-> Disponível em várias regiões, por exemplo, 100% dos serviços, não estão em todas as regiões.
+	
+Segurança e Compliance
+	-> Legislação de Banco com Auditoria, cuidado com os dados no storage fora do PAIS.
+	
+Agilidade
+	-> Montar um datacenter, muito mais rápido do que físico.
+
+Disaster Recovery
+	-> Catastrofe, (por exemplos, torres gêmeas), o tempo para subir (dual time), é mais rápido.
+	
+Nuvem, é para economia de escala, por exemplo, no on-primesses (Escala).
+
+Capex
+	-> Capex é gasto que é feito em uma paulada só, usando ou não. (Dentro da núvem, é mais para licenças).
+
+Opex
+	-> Opex,  é o gasto após o uso, a despesa operacional, por exemplo horas de consultorias. (Dentro da nuvem, é quase tudo).
+
+Consumption-based model.
+	-> Sem custos iniciais, por exemplo, os recursos são exponenciais, é o consumo por produtos abertos, você é cobrado após shutdown de uma VM pelo disco.
+	
+Public Cloud (Maiores provedores)
+	-> Qualquer pessoa no Azure, pode criar uma conta, Pas you Go.
+	-> Alocando recurso conforme necessidade.
+
+Private Cloud
+	-> ???????????????
+	-> Nuvem privada, gerenciamento geral da sua infraestrutura.
+
+Hybrid Cloud
+	-> Maior Flexibilidade
+	-> Maioria das empresas, combina o on-premises juntamente com a nuvem, (Exemplo: Através do Azure Express Houte (VPN)).
+
+
+
+
+
 
 https://www.youtube.com/watch?v=ijyA2wtEH0s
-31:00
+1:13:00

@@ -121,7 +121,23 @@ Azure Application Gateway
 -> Content Delivery Network (CDN)
 	-> Por exemplo, se o usuário estiver na europa, redireciona para os servidores na europa, se for no Brasil, redireciona para o brasil.
 
-https://prnt.sc/w4ch93
+Storage
+	-> https://prnt.sc/w4ch93
+	
+A grande maioria das execuções do Azure, podem ser realizadas através de multiplataformas, ou seja, Linux, Windows e MAC.
+
+Azure já oferece DDOS para as VMS.
+
+SLA -> 
+
+	SINGLE VM 
+		-> 99.9%
+
+	AVAILABILITY SETS 
+		-> 99.95%
+
+	AVAILABILITY ZONES
+		-> 99.99%
 
 https://www.youtube.com/watch?v=ijyA2wtEH0s
 1:13:00

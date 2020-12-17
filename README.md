@@ -32,9 +32,17 @@
   - Data Disk suporta +32TB
   - Temporary Disk é somente em um escopo temporário.
   - O que é PaaS?
+  	-> SQL SERVER é um exemplo.
+	-> Web App.
+	-> IaaS.
+	-> Entrega uma plataforma.
+
   - O que é IaaS?
   	-> Categoria Básica, NÓS gerenciamos a camada de storage, nós gerenciamos o sistema operacional.  (Alugar um carro, mas, a responsabilidade de gasolina, estacionamento, atividades é sua).
   - O que é SaaS?
+  	-> Exemplo, do transporte público, onde você somente CONSOME o serviço que lá já está planejado e arquiteturado.
+	-> Office 365.
+	
   - Nuvem é facil para elasticidade(Black Friday).
   
 High Availability
@@ -84,10 +92,36 @@ Hybrid Cloud
 	-> Maior Flexibilidade
 	-> Maioria das empresas, combina o on-premises juntamente com a nuvem, (Exemplo: Através do Azure Express Houte (VPN)).
 
+Muito Importante -> https://prnt.sc/w4c3ix
 
+Subscrição
+	-> Tem serviços grátis de 12 meses
+	-> 200$ ~ 750R$
+	-> Free
+	-> Pay-as-you-go
+		- Seu cartão de crédito.
+	-> Enterprise Agreement
+	-> Estudante
+	-> Uma Conta pode ter várias assinaturas.
 
+A primeira coisa a ser desenvolvida, é o RESOURCE GROUP.
 
+Tag é imporatante, para NOMEAR os recursos utilizados.
 
+Azure Virtual Network (Infraestrutura de Rede) - Os Switchs
+	-> fornece uma comunicação segura entre os recursos do Azure.
+
+Azure Load Balancer 
+	-> faz redirecionamentos de IP
+	
+Azure Application Gateway
+	-> /images, por exemplo, redireciona para outro servidor, para não sobrecarregar somente o servidor.
+	-> Proxy reverso.
+	
+-> Content Delivery Network (CDN)
+	-> Por exemplo, se o usuário estiver na europa, redireciona para os servidores na europa, se for no Brasil, redireciona para o brasil.
+
+https://prnt.sc/w4ch93
 
 https://www.youtube.com/watch?v=ijyA2wtEH0s
 1:13:00

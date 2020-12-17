@@ -139,5 +139,27 @@ SLA ->
 	AVAILABILITY ZONES
 		-> 99.99%
 
+Azure Security Center
+	-> Ele somente INFORMATIVO, não toma atitudes.
+	
+Azure Information Protection (LGPD) muito importante sobre a classificação.
+	-> Classificação de Documentos
+	-> Seja possível criar TAGS e inpedindo que seja enviado por e-mail.
+	
+Azure Advanced Threat Protection
+	-> Sensor de Spam, por exemplo, similar ao comportamtto do click do e-mail, da estrutura da RD.
+	
+Resource Locks -> Bloqueia como um todo, acima da própria policy.
+
+Suporte técnico, só não abre o plano Basic.
+
+C-> SLA 8h
+	Developer
+B -> SLA 4H
+	Standatart
+A -> SLA 1H
+	-Professional.
+	
+
 https://www.youtube.com/watch?v=ijyA2wtEH0s
 1:13:00
